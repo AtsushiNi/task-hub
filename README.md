@@ -1,10 +1,19 @@
-# task-hub
+# TaskHub
+「至高の」Todoアプリ
 
-An Electron application with React and TypeScript
+## 主な機能
 
-## Recommended IDE Setup
+- タスクの追加・編集・削除
+- タスクの完了/未完了切り替え
+- タスクのフィルタリング（全て/未完了/完了済み）
+- タスクの検索機能
+- データのローカル保存
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+## 技術スタック
+
+- フロントエンド: React + TypeScript
+- デスクトップアプリケーション: Electron
+- ビルドツール: Vite
 
 ## Project Setup
 
